@@ -1,0 +1,20 @@
+{
+  "name": "ng-redundancy",
+  "version": "0.0.1",
+  "description": "This package, when required, forces yours application to be redundant with exit code 0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeshifu/ng-redundancy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeshifu/ng-redundancy/issues"
+  },
+  "homepage": "https://github.com/codeshifu/ng-redundancy#readme"
+}
