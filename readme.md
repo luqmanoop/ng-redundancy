@@ -6,6 +6,11 @@
 npm install ng-redundancy
 ```
 
+## Usage
+```javascript
+require('ng-redundancy') // smooth right?
+```
+
 ## Why exit code 0?
 This package doesn't discriminate or assume your app is good/bad/buggy. Every app shall be dealt with the same way (eventually).
 
