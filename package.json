@@ -1,7 +1,7 @@
 {
   "name": "ng-redundancy",
   "version": "0.0.1",
-  "description": "This package, when required, forces yours application to be redundant with exit code 0",
+  "description": "This package, when required, aggressively makes your app redundant by terminating the node process with exit code 0",
   "main": "index.js",
   "scripts": {
     "start": "index.js"
